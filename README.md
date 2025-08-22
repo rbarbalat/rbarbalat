@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I used to work as an options trader but I am transitioning into a career in software engineering. At the moment, most of my experience in this field is in the form of building full-stack web applications that combine a React/Redux frontend with either a Flask/SQLAlchemy or Express/Sequelize backend and a PostgreSQL database. That said, I am interested in the full spectrum of software development from building applications from scratch to sitting back and just thinking about theoretical topics in computer science. I am open to all opportunities, please do not hesitate to contact me.
-
 <!--
 **rbarbalat/rbarbalat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
